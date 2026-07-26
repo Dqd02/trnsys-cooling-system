@@ -1,0 +1,32 @@
+4.44  5.56  6.67  7.78  8.89  10		            ! Chilled Water Temperatures (C)
+23.89  29.44  35  40.56  46.11  		            ! Ambient Air Dry-Bulb Temperatures (C)
+ 1.0310 	 1.2621 						! Capacity Ratio and COP (All Power) Ratio at 4.44/23.89
+ 0.9884 	 1.0971 						! Capacity Ratio and COP (All Power) Ratio at 4.44/29.44
+ 0.9452 	 0.9515 						! Capacity Ratio and COP (All Power) Ratio at 4.44/35
+ 0.8968 	 0.8058 						! Capacity Ratio and COP (All Power) Ratio at 4.44/40.56
+ 0.8478 	 0.6893 						! Capacity Ratio and COP (All Power) Ratio at 4.44/46.11
+ 1.0577 	 1.2913 						! Capacity Ratio and COP (All Power) Ratio at 5.56/23.89
+ 1.0150 	 1.1165 						! Capacity Ratio and COP (All Power) Ratio at 5.56/29.44
+ 0.9729 	 0.9806 						! Capacity Ratio and COP (All Power) Ratio at 5.56/35
+ 0.9234 	 0.8252 						! Capacity Ratio and COP (All Power) Ratio at 5.56/40.56
+ 0.8740 	 0.6990 						! Capacity Ratio and COP (All Power) Ratio at 5.56/46.11
+ 1.0843 	 1.3107 						! Capacity Ratio and COP (All Power) Ratio at 6.67/23.89
+ 1.0422 	 1.1359 						! Capacity Ratio and COP (All Power) Ratio at 6.67/29.44
+ 1.0000 	 1.0000 						! Capacity Ratio and COP (All Power) Ratio at 6.67/35
+ 0.9501 	 0.8447 						! Capacity Ratio and COP (All Power) Ratio at 6.67/40.56
+ 0.8997 	 0.7184 						! Capacity Ratio and COP (All Power) Ratio at 6.67/46.11
+ 1.1120 	 1.3398 						! Capacity Ratio and COP (All Power) Ratio at 7.78/23.89
+ 1.0703 	 1.1650 						! Capacity Ratio and COP (All Power) Ratio at 7.78/29.44
+ 1.0286 	 1.0194 						! Capacity Ratio and COP (All Power) Ratio at 7.78/35
+ 0.9772 	 0.8544 						! Capacity Ratio and COP (All Power) Ratio at 7.78/40.56
+ 0.9263 	 0.7282 						! Capacity Ratio and COP (All Power) Ratio at 7.78/46.11
+ 1.1391 	 1.3689 						! Capacity Ratio and COP (All Power) Ratio at 8.89/23.89
+ 1.0979 	 1.1845 						! Capacity Ratio and COP (All Power) Ratio at 8.89/29.44
+ 1.0567 	 1.0388 						! Capacity Ratio and COP (All Power) Ratio at 8.89/35
+ 1.0048 	 0.8738 						! Capacity Ratio and COP (All Power) Ratio at 8.89/40.56
+ 0.9530 	 0.7476 						! Capacity Ratio and COP (All Power) Ratio at 8.89/46.11
+ 1.1663 	 1.3883 						! Capacity Ratio and COP (All Power) Ratio at 10/23.89
+ 1.1270 	 1.2039 						! Capacity Ratio and COP (All Power) Ratio at 10/29.44
+ 1.0873 	 1.0583 						! Capacity Ratio and COP (All Power) Ratio at 10/35
+ 1.0354 	 0.8932 						! Capacity Ratio and COP (All Power) Ratio at 10/40.56
+ 0.9835 	 0.7670 						! Capacity Ratio and COP (All Power) Ratio at 10/46.11

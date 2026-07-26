@@ -1,0 +1,7 @@
+0.0  0.25  0.50  0.75  1.00		                  ! Part Load Ratio
+0.0000						            ! Fraction of Full Load Power at PLR=0.00
+0.2497						            ! Fraction of Full Load Power at PLR=0.25
+0.4956						            ! Fraction of Full Load Power at PLR=0.50
+0.6902						            ! Fraction of Full Load Power at PLR=0.75
+1.0000						            ! Fraction of Full Load Power at PLR=1.00
+
