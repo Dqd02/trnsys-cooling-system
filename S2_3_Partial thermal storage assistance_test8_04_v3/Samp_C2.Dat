@@ -1,0 +1,46 @@
+2                           
+7	6
+4	5	6	7	8	9	10   !Chilled water leaving temperature (C) 
+16	20	25	30	35	40   !Cooling water inlet temperature (C)  
+1.0183 	 1.3123 		     ! Capacity ratio and COP ratio at 4 C outlet CHWT and 16 C inlet CWT
+0.9941 	 1.1394 		     ! Capacity ratio and COP ratio at 4 C outlet CHWT and 20 C inlet CWT
+0.9637 	 1.0540 		     ! Capacity ratio and COP ratio at 4 C outlet CHWT and 25 C inlet CWT
+0.9334 	 0.9394 		     ! Capacity ratio and COP ratio at 4 C outlet CHWT and 30 C inlet CWT
+0.9031 	 0.8449 		     ! Capacity ratio and COP ratio at 4 C outlet CHWT and 35 C inlet CWT
+0.8727 	 0.7572 		     ! Capacity ratio and COP ratio at 4 C outlet CHWT and 40 C inlet CWT
+1.0403 	 1.3348 		     !Capacity ratio and COP ratio at 5 C oulet CHWT and 16 C inlet CWT  
+1.0161 	 1.1843 		     !Capacity ratio and COP ratio at 5 C oulet CHWT and 20 C inlet CWT 		  
+0.9859 	 1.0742 		     !Capacity ratio and COP ratio at 5 C oulet CHWT and 25 C inlet CWT  
+0.9556 	 0.9596 		     !Capacity ratio and COP ratio at 5 C oulet CHWT and 30 C inlet CWT  
+0.9253 	 0.8629 		     !Capacity ratio and COP ratio at 5 C oulet CHWT and 35 C inlet CWT  
+0.8951 	 0.7775 		     !Capacity ratio and COP ratio at 5 C oulet CHWT and 40 C inlet CWT
+1.0623 	 1.3573 		     !Capacity ratio and COP ratio at 6 C oulet CHWT and 16 C inlet CWT  
+1.0381 	 1.2292 		     !Capacity ratio and COP ratio at 6 C oulet CHWT and 20 C inlet CWT  
+1.0081 	 1.0944 		     !Capacity ratio and COP ratio at 6 C oulet CHWT and 25 C inlet CWT  
+0.9778 	 0.9798 		     !Capacity ratio and COP ratio at 6 C oulet CHWT and 30 C inlet CWT  
+0.9475 	 0.8809 		     !Capacity ratio and COP ratio at 6 C oulet CHWT and 35 C inlet CWT  
+0.9175 	 0.7978 		     !Capacity ratio and COP ratio at 6 C oulet CHWT and 40 C inlet CWT
+1.0843 	 1.3820 		     !Capacity ratio and COP ratio at 7 C oulet CHWT and 16 C inlet CWT  
+1.0601 	 1.2517 		     !Capacity ratio and COP ratio at 7 C oulet CHWT and 20 C inlet CWT  
+1.0301 	 1.1169 		     !Capacity ratio and COP ratio at 7 C oulet CHWT and 25 C inlet CWT  
+1.0000 	 1.0000 		     !Capacity ratio and COP ratio at 7 C oulet CHWT and 30 C inlet CWT  
+0.9699 	 0.9011 		     !Capacity ratio and COP ratio at 7 C oulet CHWT and 35 C inlet CWT  
+0.9397 	 0.8157 		     !Capacity ratio and COP ratio at 7 C oulet CHWT and 40 C inlet CWT
+1.1061 	 1.4045 		     !Capacity ratio and COP ratio at 8 C oulet CHWT and 16 C inlet CWT  
+1.0821 	 1.2742 		     !Capacity ratio and COP ratio at 8 C oulet CHWT and 20 C inlet CWT  
+1.0521 	 1.1371 		     !Capacity ratio and COP ratio at 8 C oulet CHWT and 25 C inlet CWT  
+1.0222 	 1.0202 		     !Capacity ratio and COP ratio at 8 C oulet CHWT and 30 C inlet CWT  
+0.9921 	 0.9191 		     !Capacity ratio and COP ratio at 8 C oulet CHWT and 35 C inlet CWT  
+0.9621 	 0.8337 		     !Capacity ratio and COP ratio at 8 C oulet CHWT and 40 C inlet CWT
+1.1281 	 1.4270 		     !Capacity ratio and COP ratio at 9 C oulet CHWT and 16 C inlet CWT  
+1.1041 	 1.2966 		     !Capacity ratio and COP ratio at 9 C oulet CHWT and 20 C inlet CWT  
+1.0743 	 1.1573 		     !Capacity ratio and COP ratio at 9 C oulet CHWT and 25 C inlet CWT  
+1.0444 	 1.0404 		     !Capacity ratio and COP ratio at 9 C oulet CHWT and 30 C inlet CWT  
+1.0143 	 0.9393 		     !Capacity ratio and COP ratio at 9 C oulet CHWT and 35 C inlet CWT  
+0.9845 	 0.8517 		     !Capacity ratio and COP ratio at 9 C oulet CHWT and 40 C inlet CWT 
+1.1501 	 1.4494 		     !Capacity ratio and COP ratio at 10 C oulet CHWT and 16 C inlet CWT  
+1.1261 	 1.3191 		     !Capacity ratio and COP ratio at 10 C oulet CHWT and 20 C inlet CWT  
+1.0963 	 1.1798 		     !Capacity ratio and COP ratio at 10 C oulet CHWT and 25 C inlet CWT  
+1.0666 	 1.0607 		     !Capacity ratio and COP ratio at 10 C oulet CHWT and 30 C inlet CWT  
+1.0367 	 0.9573 		     !Capacity ratio and COP ratio at 10 C oulet CHWT and 35 C inlet CWT  
+1.0069 	 0.8697 		     !Capacity ratio and COP ratio at 10 C oulet CHWT and 40 C inlet CWT 
